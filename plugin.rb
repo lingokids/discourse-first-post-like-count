@@ -1,5 +1,5 @@
-# name: Discourse Topic First Reply
-# about: Add `first_reply` field to Topics list serializer
+# name: Discourse First Post Like Count
+# about: Add `first_post_like_count` field to Topics list serializer
 # version: 0.1
 # authors: lingokids
 # url: https://github.com/lingokids
